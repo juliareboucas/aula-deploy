@@ -1,0 +1,24 @@
+/* Estilo personalizado */
+.minha-classe {
+    color: red;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .card {
+    border-radius: 10px;
+  }
+  
+  .card-img-top {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
